@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Mert/Invisible Maze/Invisible Maze.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
